@@ -25,7 +25,7 @@ once written.
 ### Section 2: UPF power-aware design
 
 - [x] [2.1 Power domains](02-power-aware-design/01-power-domains.md)
-- [ ] 2.2 Supply nets and ports
+- [x] [2.2 Supply nets and ports](02-power-aware-design/02-supply-nets-and-ports.md)
 - [ ] 2.3 Supply sets
 - [ ] 2.4 Power switches
 - [ ] 2.5 Power state table
