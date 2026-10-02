@@ -1,0 +1,6 @@
+# Windows and OneDrive metadata
+desktop.ini
+Thumbs.db
+
+# Local-only material such as slide screenshots and transcripts; never published
+private/
